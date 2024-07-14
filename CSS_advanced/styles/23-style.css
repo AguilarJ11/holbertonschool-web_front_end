@@ -165,7 +165,7 @@ ul.row{
   text-align: right;
 }
 
-.footer-adress {
+.footer-address {
   color: var(--text-color);
 }
 
@@ -173,7 +173,7 @@ ul.row{
   display: block;
 }
 
-.social-link > svg {
+.social-link svg {
   fill: var(--text-color);
 }
 
